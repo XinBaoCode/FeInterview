@@ -8,12 +8,3 @@ Promise.resolve().then(function () {
   console.log('promise2')
 })
 console.log('script end')
-
-/**
- * The result is as follows:
- * script start
- * script end
- * promise1
- * promise2
- * setTimeout
- */
