@@ -1,0 +1,9 @@
+node_modules
+.env.local
+.umirc.local.ts
+/runtime/config/config.local.ts
+/runtime/src/.umi
+/runtime/src/.umi-production
+/runtime/src/.umi-test
+/runtime/dist
+.swc
